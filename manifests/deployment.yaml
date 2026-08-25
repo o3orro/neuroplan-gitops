@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: neuroplan-test
-          image: yerinnn/neuroplan-ci-test:6
+          image: yerinnn/neuroplan-ci-test:7
           ports:
             - containerPort: 80

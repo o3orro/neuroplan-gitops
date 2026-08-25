@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: neuroplan-frontend
-          image: yerinnn/neuroplan-frontend:11
+          image: yerinnn/neuroplan-frontend:20
 
           ports:
             - containerPort: 80
